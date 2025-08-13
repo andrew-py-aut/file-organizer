@@ -1,0 +1,2 @@
+# This project uses only standard Python libraries.
+# This file is included for best practices and future scalability.
